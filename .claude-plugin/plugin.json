@@ -1,0 +1,6 @@
+{
+  "name": "washi",
+  "version": "3.2.0",
+  "description": "A light appearance theme for Claude Desktop: the window as one sheet of handmade paper, sewn down its left edge, with a line drawing pressed blind into it. /washi opens its settings.",
+  "types": "./types/index.d.ts"
+}

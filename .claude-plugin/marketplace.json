@@ -1,0 +1,12 @@
+{
+  "name": "washi-local",
+  "owner": {
+    "name": "oliside317-web"
+  },
+  "plugins": [
+    {
+      "name": "washi",
+      "source": "./"
+    }
+  ]
+}
